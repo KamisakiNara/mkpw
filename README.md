@@ -1,2 +1,2 @@
-# pw2
-Matkul Pemrograman Web
+# Mata Kuliah Pemrograman Web
+Tugas 1 - membuat portofolio
